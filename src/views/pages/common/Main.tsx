@@ -1,7 +1,5 @@
-import React from "react";
-
 const Main = () => {
-  return <div>main</div>;
+  return <div>Arifuzzaman</div>;
 };
 
 export default Main;
